@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE (AI) Student | 💻 Developer | 🤖 AI/ML Enthusiast
 
-I'm a Computer Science student at Rungta college of engineering , passionate about technology, problem-solving, and building practical projects.
+I'm a Computer Science student at Bhilai Institute of technology Durg , passionate about technology, problem-solving, and building practical projects.
 
 I enjoy exploring Artificial Intelligence, Machine Learning, Python, and Web Development while continuously improving my coding skills.
 
